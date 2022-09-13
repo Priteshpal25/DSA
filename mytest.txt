@@ -1,0 +1,17 @@
+1. creating a customer onboarding flow for a trading platform.
+2. Integrating a third party api for customer verification using Pan or aadhar number.
+3. adding a service to encrypt the data before inserting into database and decrypting it after it is retrived in the application.
+4. user notification system using node.js microservice, AWS lamba, AWS SQS, AWS SNS.
+
+
+node js
+callback hell
+promises
+async await
+event loop
+
+express middlewares 
+sequelize
+mongodb
+
+role based permission
